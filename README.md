@@ -1,4 +1,4 @@
-Sure, here is a sample README file for this project:
+
 
 Predicting the Price of an Uber Ride
 The goal of this project is to predict the price of an Uber ride from a given pickup point to the agreed drop-off location using data from a dataset provided on Kaggle.
